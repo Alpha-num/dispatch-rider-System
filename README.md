@@ -1,4 +1,4 @@
-<h1>Dispatch Rider system<h1>
+<b>Dispatch Rider system<b>
 This is a basic backend implementation of a dispatch rider system created with Laravel 9
 
 Used Laravel Fortify for User authentication and Laravel Eloquent models for fetching related table data and CRUD operations.
